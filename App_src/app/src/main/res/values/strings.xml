@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">studytracker</string>
+    <string name="select_subject">Choose Subject</string>
+    <string name="analyze_ai">Analytic Data by AI</string>
+    <string name="gemini_api_key">AIzaSyCf4j6O8b4drNGSkjwR2IUWN3RWOd00fsM</string>
+
+</resources>
