@@ -8,6 +8,21 @@
 ## Demo
 Watch the app in action: [Study Tracker Demo](https://youtu.be/EKcoCYHUSvI)
 
+Q1 DEMO
+<img width="378" height="803" alt="image" src="https://github.com/user-attachments/assets/804b99b3-8371-4371-b564-bd76e2935fe7" />
+
+Q2 DEMO
+<img width="379" height="796" alt="image" src="https://github.com/user-attachments/assets/74039f55-a080-4e0e-8659-b6884c7c3a98" />
+
+Q3 DEMO
+<img width="376" height="803" alt="image" src="https://github.com/user-attachments/assets/87c0bc5c-d9a3-46eb-b39b-7438db2be41f" />
+
+Q4 DEMO
+<img width="373" height="800" alt="image" src="https://github.com/user-attachments/assets/a2f069d3-e7c3-429d-af21-6deb6d8ea3ec" />
+
+Q5 DEMO
+<img width="381" height="798" alt="image" src="https://github.com/user-attachments/assets/9c3ebd12-ae0c-40ca-aacf-13fbcac50b20" />
+
 ## Features
 
 ### 1. Home Screen: Study Summary & Session List
