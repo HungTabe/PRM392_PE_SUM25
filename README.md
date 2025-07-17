@@ -108,7 +108,7 @@ Watch the app in action: [Study Tracker Demo](https://youtu.be/EKcoCYHUSvI)
 - **LearningSuggestionsActivity**: List of AI-generated suggestions for low-focus sessions.
 
 ## Video Demo
-[Watch the Study Tracker Demo](https://www.youtube.com/watch?v=E9568IJPCeM)
+[Watch the Study Tracker Demo](https://youtu.be/EKcoCYHUSvI)
 
 ## Notes
 
