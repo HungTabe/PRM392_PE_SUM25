@@ -6,7 +6,7 @@
 **Study Tracker** is an Android application designed to help students log, track, and analyze their study sessions. Built with Android Native (Java, Groovy DSL, min SDK 24), it provides a user-friendly interface to manage study activities, filter sessions, visualize study time distribution, and generate AI-powered learning suggestions using the Gemini API. The app follows the MVVM architecture, leveraging Room for local storage, Retrofit for API integration, and MPAndroidChart for data visualization.
 
 ## Demo
-Watch the app in action: [Study Tracker Demo](https://www.youtube.com/watch?v=E9568IJPCeM)
+Watch the app in action: [Study Tracker Demo](https://youtu.be/EKcoCYHUSvI)
 
 ## Features
 
